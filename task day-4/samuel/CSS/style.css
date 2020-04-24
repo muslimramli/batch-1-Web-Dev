@@ -1,0 +1,130 @@
+.container{
+    background-color: #a98274;
+    width: 1366px;
+    height: 600px;
+    margin: auto;
+}
+
+.header ul {
+    height: 50px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4b2c20;
+    margin-bottom: 10px;
+  }
+  
+.header li {
+    float: left;
+  }
+  
+.header  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Hammersmith One', sans-serif;
+  }
+  
+.header  li a:hover {
+    background-color: #795548;
+  }
+
+.container-content{
+    width: 1366px;
+    height: 520px;
+}
+
+.left-sidebar{
+    background-color: white;
+    width: 200px;
+    height: 520px;
+    float: left;
+}
+
+.left-sidebar ul {
+    height: 520px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    font-family: 'Hammersmith One', sans-serif;
+  }
+  
+.left-sidebar  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+    
+.left-sidebar  li a:hover{
+    background-color: #555;
+    color: white;
+  }
+
+.center-bar{
+    width: 815px;
+    height: 500px;
+    padding: 10px;
+    margin-left: 6px;
+    float: left;
+}
+
+.content img{
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+
+.isi-content{
+    color: white;
+    text-align: justify;
+}
+
+.maintitle{
+    text-align: left;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.right-sidebar{
+    background-color: #795548;
+    width: 300px;
+    height: 500px;
+    margin-left: 1045px;
+    padding: 10px;
+}
+
+.right-sidebar .isi-content{
+    color: white;
+    text-align: justify;
+    font-size: 12px;
+}
+.right-sidebar img{
+    width: 150px;
+    float: left;
+    margin: 15px;
+}
+
+.right-sidebar .maintitle{
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.footer{
+    margin-top: 10px;
+    background-color: #4b2c20;
+    width: 1366px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+
+

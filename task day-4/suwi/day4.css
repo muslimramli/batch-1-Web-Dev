@@ -1,0 +1,262 @@
+.body{
+    background-color: lightblue;
+    }
+    
+    .container{
+    width: 1000px;
+    height: 800px;
+    background-color: white;
+    margin-top: 50px;
+    margin: auto;
+    }
+    
+    .header{
+    width: 1000px;
+    height: 400px;
+    background-image: url(university.jpg);
+    color: white;
+    }
+    
+    .teksheader1{
+    padding-top: 310px;
+    font-size: 30   px;
+    color: white;
+    margin-left: 35px;
+    font-family: 'Lucida Sans';
+    }
+        
+    .teksheader2{
+    font-size: 25px;
+    color: white;
+    margin-left: 35px;
+    font-family: 'Lucida Sans';
+    }
+    
+    .menubutton1{
+    width: 125px;
+    height: 50px;
+    background-color: wheat;
+    float: left;
+    cursor: pointer;
+    border-top: none;
+    border-color: darkkhaki;
+    border-width: 1px;
+    }
+    
+    .menubutton1:hover{
+    background-color: lightskyblue;
+    }
+        
+    .sidebarkiri{
+    width: 200px;
+    height: 500px;
+    background-color: whitesmoke;
+    float: left;
+    }
+    
+    .tekskiri1{
+    color: black;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    }
+    
+    .tekskiri2{
+    color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    }
+    
+    .tekskiri3{
+    color: black;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    }
+    
+    .tekskiri4{
+    color: black;
+    margin-top: 20px;
+    margin-left: 20px;  
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    }
+        
+    .sidebartengah{
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    float: left;
+    color: white;
+    }
+    
+    .kotaktengah1{
+    padding-top: 30px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    }
+    
+    .gambar1{
+    float: left;
+    }
+    
+    .judultengah1{
+    color: black;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-bottom: 10px;
+    padding-left: 160px;
+    }
+        
+    .isitengah1{
+    color: black;
+    font-family: sans-serif;  
+    font-size: 12px;
+    padding-left: 160px;
+    }
+    
+    .kotaktengah2{
+    padding-top: 30px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    }
+        
+    .gambar2{
+    float: left;}
+        
+    .judultengah2{
+    color: black;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-left: 160px;
+    margin-bottom: 10px;
+    }
+            
+    .isitengah2{
+    color: black;
+    font-family: sans-serif;  
+    font-size: 12px;
+    padding-left: 160px;
+    }
+    
+    .kotaktengah3{
+    padding-top: 30px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    }
+            
+    .gambar3{
+    float: left;}
+            
+    .judultengah3{
+    color: black;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-left: 160px;
+    margin-bottom: 10px;
+    }
+                
+    .isitengah3{
+    color: black;
+    font-family: sans-serif;  
+    font-size: 12px;
+    padding-left: 160px;
+    }
+        
+    .sidebarkanan{
+    width: 200px;
+    height: 500px;
+    background-color: whitesmoke;
+    float: left;
+    }
+    
+    .kotakkecillagi{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 175px;
+    height: 185px;
+    background-color: wheat;
+    padding-left: 5px;
+    -webkit-box-shadow: 2px 4px 8px -2px rgba(0,0,0,0.65);
+    -moz-box-shadow: 2px 4px 8px -2px rgba(0,0,0,0.65);
+    box-shadow: 2px 4px 8px -2px rgba(0,0,0,0.65);
+    }
+    
+    .tekslogin{
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    }
+    
+    .userid{
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 150px;
+    }
+    
+    .password{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 150px;
+    }
+    
+    .login{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 150px;
+    height: 25px;
+    background-color: pink;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+    
+    .login:hover{
+    background-color: palegreen;
+    }
+    
+    .kotakkecillagidong{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 175px;
+    height: 100px;
+    background-color: wheat;
+    padding-left: 5px;
+    -webkit-box-shadow: 2px 4px 8px -2px rgba(0,0,0,0.65);
+    -moz-box-shadow: 2px 4px 8px -2px rgba(0,0,0,0.65);
+    box-shadow: 2px 4px 8px -2px rgba(0,0,0,0.65);
+    }
+    
+    .signup{
+    margin-left: 10px;
+    width: 150px;
+    height: 25px;
+    background-color: pink;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+    
+    .signup:hover{
+    background-color: palegreen;
+    }
+    
+    .footer{
+    width: 1000px;
+    background-color: wheat;
+    float: right;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center  ;
+    font-family: sans-serif;
+    }
