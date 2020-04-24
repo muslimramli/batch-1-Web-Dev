@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap');
+
+body {
+    background-color: darkgrey;
+}
+
+.container {
+    width: 1000px;
+    background-color: darkkhaki;
+    /* height: 1200px; */
+    margin: auto;
+    margin-top: 40px;
+    box-sizing: border-box;
+    
+}
+
+.header {
+    width: 1000px;
+    background-color: goldenrod;
+    height: 200px;
+}
+
+.left-sidebar {
+    width: 200px;
+    height: 800px;
+    background-color: darkturquoise;
+    float: left;
+}
+
+.center-sidebar {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    float: left;
+   
+    
+
+}
+.right-sidebar {
+    float: right;
+    width: 200px;
+    height: 800px;
+    background-color: darkturquoise;
+    float: left;
+
+
+}
+
+.footer {
+    width: 1000px;
+    height: 80px;
+    background-color: fuchsia;
+    float: right;
+    margin-bottom: 20px;
+}
+
+.logo {
+    font-size: 50px;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+
+.container-berita {
+    padding: 20px;
+    
+
+    
+}
+
+.judul {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+    
+}
+
+.gambar {
+    float: left;
+    width: 150px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    line-height: 80px;
+}
+
+.btn-readmore {
+    background-color: tomato;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn-readmore:hover {
+    background-color: turquoise;
+}
+
+a{
+    text-decoration: none;
+}
