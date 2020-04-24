@@ -1,0 +1,334 @@
+
+.body-ku {
+
+    background-color:blueviolet;
+}
+
+.kotak1 {
+    background-color: white;
+    width: 400px;
+    height: 430px;
+    float: left;
+}
+
+.kotak2 {
+    background-color: darkblue;
+    width: 400px;
+    height: 430px;
+    margin-left: 400px;
+    
+}
+
+.container {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.judul1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .judul2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-top: 100px;
+        padding-top: 30px;
+        color:white;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    
+
+
+
+.Gelar{
+     width: 330px;
+        margin-left: 25px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        height: 30px;
+        background: none;
+        font-size: 12px;
+        color: grey;
+        border-top-style: none;
+        border-left-style: none;
+        border-right-style: none;    
+        border-bottom-color: lightgrey;
+    }
+
+ .namadepan{
+    padding-left: 4px;
+    font-size: 12px;
+    height: 20px;
+    width: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    margin-left: 25px;
+    margin-right: 20px;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: lightgrey;
+    color: black;
+    border-width: thin;
+    background: none;
+}
+
+.namabelakang{
+    padding-left: 4px;
+    font-size: 12px;
+    height: 20px;
+    width: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: lightgrey;
+    color: black;
+    border-width: thin;
+    background: none;
+    outline: none;
+}
+
+.jabatan{
+    width: 330px;
+    margin-left: 25px;
+    margin-top: 10px;
+    height: 20px;
+    background: none;
+    outline: none;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: grey;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;    
+    border-bottom-color: lightgrey;
+}
+
+.perusahaan{
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    width: 150px;
+    font-family: 'Lucida Sans';
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 20px;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: lightgrey;
+    color: black;
+    border-width: thin;
+    background: none;
+}
+
+.lokasi{
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    width: 150px;
+    font-family: 'Lucida Sans';
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 20px;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: lightgrey;
+    color: black;
+    float: left;
+    border-width: thin;
+    background: none;
+}
+
+.karyawan{
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 10px;
+    width: 150px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: lightgrey;
+    color: black;
+    border-width: thin;
+    background: none;
+}
+
+
+
+.alamat {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 27px;
+    margin-top: 20px;
+    margin-left: 25px; 
+    width: 330px;
+    font-family: 'Lucida Sans';
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    color: white;
+    border-width: thin;
+    background: none;
+}
+
+.informasi {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 8px;
+    margin-left: 25px; 
+    width: 330px;
+    font-family: 'Lucida Sans';
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    color: white;
+    border-width: thin;
+    background: none;
+}
+
+.kodepos {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 9px;
+    margin-left: 25px; 
+    width: 80px;
+    font-family: 'Lucida Sans';
+    color: white;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    border-width: thin;
+    background: none;
+    float: left;
+}
+
+.tempat {
+    padding-left: 2px;
+    font-size: 11px;
+    height: 23px;
+    margin-top: 9px;
+    margin-left: 20px; 
+    width: 225px;
+    font-family: 'Lucida Sans';
+    color: white;
+    border-width: thin;
+    background: none;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;    
+    border-bottom-color: lightgrey;
+    outline: none;
+}
+.negara {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 25px; 
+    width: 330px;
+    font-family: 'Lucida Sans';
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    color: white;
+    border-width: thin;
+    background: none;
+}
+
+.kode-negara {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 25px; 
+    width: 80px;
+    font-family: 'Lucida Sans';
+    color: white;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    border-width: thin;
+    background: none;
+    float: left;
+}
+
+.telepon {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 20px; 
+    width: 225px;
+    font-family: 'Lucida Sans';
+    color: white;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    border-width: thin;
+    background: none;
+}
+
+.email {
+    padding-left: 4px;
+    font-size: 11px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 20px; 
+    width: 225px;
+    font-family: 'Lucida Sans';
+    color: white;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-color: gray;
+    border-width: thin;
+    background: none;
+}
+
+
+.ceklis {
+    display: block;
+    position: left;
+    padding-left: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }
+
+.registrasi {
+    padding:auto;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 150px;
+    height: 25px;
+    border-radius: 8px;
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.registrasi:hover {
+    background-color: goldenrod;
+}
