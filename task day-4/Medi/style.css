@@ -1,0 +1,115 @@
+.body{
+    background-color:darkgray
+}
+
+.container{
+    width: 1000px;
+    background-color:plum;
+    /* height:1200px; */
+    margin:auto;
+    margin-top: 40px;
+    box-sizing: border-box;
+
+}
+
+.header{
+    width: 1000px;
+    background-image: url("gambar/gb-header.jpg");
+    height:200px;
+}
+
+.left-sidebar{
+    width:200px;
+    height:300px;
+    background-color: blanchedalmond;
+    float: left;
+}
+
+.center-sidebar{
+    width:600px;
+    height:800px;
+    background-color: cornsilk;
+    float: left;
+
+}
+
+.right-sidebar{
+    float:right;
+    width:200px;
+    height:800px;
+    background-color: honeydew;
+    float:left;
+}
+
+.footer{
+    width:1000px;
+    height:80px;
+    background-color:fuchsia;
+    float:right;
+    margin-bottom:20px;
+}
+
+.logo{
+    font-size: 60px;
+    text-align: center;
+    line-height: 150px;
+    font-family: 'Playfair Display SC', serif;
+    color: rgb(90, 43, 67);
+
+}
+
+.container-berita{
+  padding:40px; 
+  background-color:lavenderblush; 
+  
+
+}
+
+.judul{
+    font size:40px;
+    font-family: 'Kreon', serif;
+    margin-bottom: 20px;
+
+}
+.gambar {
+    float: left;
+    width: 225px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    line-height: 80px;
+}
+
+.btn-readmore {
+    background-color: tomato;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn-readmore:hover {
+    background-color: turquoise;
+}
+
+.a{
+    text-decoration: none;
+} 
+.judul1{
+    font size:40px;
+    font-family: 'Kreon', serif;
+    margin-bottom: 20px;
+    
+
+}
+.gambar1{
+    float: left;
+    width: 225px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
