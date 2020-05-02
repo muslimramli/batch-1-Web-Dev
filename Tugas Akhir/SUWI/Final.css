@@ -1,0 +1,249 @@
+.navbaratas{
+    width: auto;
+    height: 40px;
+    width: 1350px;
+    background-color: white;
+    position: fixed;
+    padding-top: 5px;
+}
+
+.span{
+    border: none;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.span1{
+    margin-left: 150px;
+}
+
+.span2{
+    margin-left: 20px;
+}
+
+.span3{
+    margin-left: 20px;
+}
+
+.username1{
+    position: relative;
+    margin-top: -25px;
+    margin-left: 900px;
+    outline: 0em;
+}
+
+.password1{
+    position: relative;
+    margin-top: -30px;
+    margin-left: 1090px;  
+}
+
+input[type=text] {
+    border: 2px solid silver;
+    border-radius: 4px;
+}
+
+input[type=password] {
+    border: 2px solid silver;
+    border-radius: 4px;
+}
+
+.signin{
+    position: relative;
+    margin-top: -30px;
+    margin-left: 1280px;
+}
+
+.buttonsignin{
+    border-radius: 4px;
+}
+
+.buttonsignin:hover{
+    background-color: lightgreen;
+}
+
+.buttonku:hover{
+    background-color: black;
+    color: white;
+}
+
+.headerku{
+    height: 400px;
+    background-image: url(university.jpg);
+    color: white;
+}
+
+.loginform {
+    width: 220px;
+    height: 300px;
+    opacity: 0.8;
+    background-color: black;
+    position: relative;
+    margin-left: 1070px;
+    margin-top: -170px;
+}
+
+.shadeku{
+    padding-top: 60px;
+}
+        
+.teksheader1{
+    margin-top: -80px;
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+        
+.teksheader2{
+    font-size: 18px;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Philosopher', sans-serif;
+    margin-top: -4px;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(255, 143, 165) !important;
+}
+
+.jumbotron { 
+    width: 1350px;
+}
+
+.jumboku{
+    background-image: url(jt1.jpg); 
+    background-position: right; 
+}
+
+.displayku{
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+}
+
+.loginku{
+    margin-top: 90px;    
+    padding-top: 10px;
+    text-align: center;
+}
+
+.kotakuser{
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.kotakpass{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 16.3px;
+}
+
+.kotakforgotpassword{
+    margin-top: 10px;    
+    text-align: center;
+    background-color: cornsilk;
+    margin-left: 20px;
+}
+
+.kotakcheckin{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.kotaklogin{
+    margin-left: 20px;
+    width: 180px;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.kotakkolom{
+    width: 1370px;
+    height: 510px;
+    background-color: firebrick;
+    background-size: auto 100%;
+    margin-top: -35px;
+}
+
+.kolomkecil{
+    width: 50px;
+    height: 460px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.baku{
+    float: left;
+    margin-left: -20px;
+}
+
+.waku{
+    float: left;
+    margin-left: 390px;
+    margin-top: -60px;
+}
+
+.nowaku2{
+    float: left;
+    margin-left: 455px;
+    margin-top: -55px;
+}
+
+.nowaku3{
+    float: left;
+    margin-left: 455px;
+    margin-top: -30px;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+}
+
+.nhku{
+    margin-left: 400px;
+}
+
+.footerku{
+    width: auto;
+    background-color: lightgrey ;
+}
+
+.tulisanku{
+    color: black;
+}
+
+.tulisanku:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.footerku1{
+    width: 1350 ;
+    height: 30px;
+    margin-top: 10px;
+    background-color: rgb(39, 39, 39);
+}
+
+.tulisanfooter{
+    color: white;
+    text-align: center;
+}
+
+.navbarhomeku{
+    margin-left: 20px;
+}
+
+.navbarhomeall{
+    margin: 10px;
+}
+
+.motoku{
+    margin-left: -330px;
+    margin-top: 65px; 
+    float: left; 
+    font-size: 20px;
+    font-style: italic;
+}

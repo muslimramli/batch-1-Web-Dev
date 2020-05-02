@@ -1,0 +1,51 @@
+body{
+    background-color:grey;
+}
+
+.row{
+    margin: auto;
+    padding-left: 25px;
+}
+
+}
+
+.lead{
+    text-align: center;
+    text-decoration: honeydew;
+}
+
+/* about */
+.about-container-fluid{
+    background-color: lightslategray;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+.about-container{
+    text-align: center;
+}
+
+/* about */
+
+/* jumbotron */
+.home-container{
+    background-color: khaki;
+}
+
+/* jumbotron */
+
+/* utama */
+.container1{
+    margin-top: 50px;
+}
+
+.row{
+    padding-left: 95px;
+}
+/* utama */
+
+/* footer */
+.container2{
+    margin-top: 50px;
+}
+/* footer */

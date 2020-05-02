@@ -1,0 +1,160 @@
+
+/* Navbar */
+.navbar-brand {
+    font-size: 35px;
+    font-family: viga;
+    margin-left: 20px;
+    color:black;
+    border-color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.7) ;
+    
+    }
+    
+    .navbar-brand h3 {
+      font-size:14px ;
+      font-family: Arial;
+      color: black;
+      
+      }
+    
+    .nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+    margin-left: 100px;
+    color: black;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.7) ;
+    margin-top: -20px;
+    
+    }
+    
+    .nav-link:hover {
+    display: block;
+    border-bottom: 3px solid #0B63DC;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 5px;
+    margin-bottom: -8px;
+    
+    }
+    
+    .tombol {
+      text-transform: uppercase;
+      border-radius: 60px;
+      margin-top: -20px;
+      margin-right: 20px;
+    }
+    
+  
+/* Jumbotron  */
+
+    .jumbotron {
+        background-image: url(img/jumbotron-bg.jpg);
+        background-size: cover;
+        height: 540px;
+        text-align: center;
+        text-transform: uppercase;
+        
+        }
+    .jumbotron .display-4 {
+        color: black;
+        margin-top: -15px;
+        font-weight: 500;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+        font-size: 60px;
+        margin-bottom: 30px;
+    }
+    .jumbotron .display-4 span {
+        font-weight: 500;
+
+    }
+
+    .jumbotron .display-4 h2 {
+        font-size: 40px;
+        color: black;
+        font-weight: 200;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+        margin-bottom: 30px;
+
+    }
+
+    .jumbotron .display-4 h2 span {
+        font-size: 40px;
+        font-weight: 500;
+        color: black;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+        margin-bottom: 30px;
+        
+    }
+
+    .jumbotron.display-4 p {
+        font-size: 40px;
+        color: black;
+        font-weight: 200;
+    }
+
+/* Workingspace */
+
+    .workingspace {
+        margin-top: 60px;
+        text-align: center;
+
+    }
+
+    .workingspace h3 {
+        font-size: 52px;
+        font-weight: 200;
+        text-transform: uppercase;
+        margin-top: 30px;
+
+    }
+
+    .workingspace h3 span {
+        font-weight: 500;
+
+    }
+
+    .workingspace p {
+        font-size: 18px;
+        color: #ACACAC;
+        font-weight: 200;
+        margin: 25px 0;
+
+    }
+
+    /* Tautan  */
+
+    .tautan-ku {
+        margin-top: 30px;
+        text-align: left;  
+    
+    }
+
+        
+    .btn-readmore {
+        background-color:white;
+        width: 100px;
+        text-align: center;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .btn-readmore:hover {
+        background-color: turquoise;
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+/* Footer  */
+
+.footer {
+    margin-top: 150px;
+}
+
+.footer p {
+    color:blaack;
+    font-size: 18px;
+
+}
+
